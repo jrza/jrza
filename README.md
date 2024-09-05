@@ -1,6 +1,7 @@
 ## Hi there 👋
 🔭 I’m currently working on improving my code skills while developing helpfful stuff!  
 🌱 I’m currently learning java and how to run a startupp  
+💭 Interests: Technology, Finance, Shark Tank, Formula 1
 ⚡ Fun fact: I'm goofy  
 <!--
 **jrza/jrza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
