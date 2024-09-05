@@ -1,7 +1,7 @@
 ## Hi there 👋
-🔭 I’m currently working on improving my code skills while developing helpfful stuff!
-🌱 I’m currently learning java and how to run a startupp
-⚡ Fun fact: I'm goofy
+🔭 I’m currently working on improving my code skills while developing helpfful stuff!  
+🌱 I’m currently learning java and how to run a startupp  
+⚡ Fun fact: I'm goofy  
 <!--
 **jrza/jrza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
