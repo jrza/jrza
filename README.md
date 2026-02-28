@@ -1,13 +1,15 @@
-##
+# Jazib Waqar Raza
+
 Figuring out the ways to express my ideas of creating through tech.
 
 <!--
-**jrza/jrza** is a ✨ special ✨ repository because its ````
+**jrza/jrza** is a ✨ special ✨ repository because its `README.md` file appears on your GitHub profile.
+
  ╔═══════════════════════════════════════════════════════════╗
  ║  JAZIB WAQAR RAZA — Full-Stack Developer & Builder       ║
  ║  Vibe coding the future, one project at a time            ║
  ╚═══════════════════════════════════════════════════════════╝
-```
+-->
 
 <div align="center">
 
@@ -183,16 +185,5 @@ Think of me as someone who:
 **Made with curiosity & lots of coffee ☕**\
 *Last updated: February 28, 2026*
 
-</div>` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
