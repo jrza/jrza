@@ -1,6 +1,8 @@
-<div align="center">
+# Jazib Waqar Raza
 
-![Jazib Waqar Raza](header.svg)
+> Figuring out the ways to express my ideas of creating through tech.
+
+<div align="center">
 
 [**Portfolio**](https://www.jazibwaqarr.lol) • [**GitHub**](https://github.com/jrza) • [**Email**](mailto:jazibwaqarr@gmail.com) • [**MLH**](https://my.mlh.io)
 
@@ -165,9 +167,7 @@ Think of me as someone who:
 
 <div align="center">
 
-![Footer](footer.svg)
-
-<span style="color: #d4af85;">*Last updated: February 28, 2026*</span>
+*Last updated: February 28, 2026*
 
 </div>
 
