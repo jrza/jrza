@@ -2,7 +2,7 @@
 Figuring out the ways to express my ideas of creating through tech.
 
 <!--
-**jrza/jrza** is a ✨ _special_ ✨ repository because its ````
+**jrza/jrza** is a ✨ special ✨ repository because its ````
  ╔═══════════════════════════════════════════════════════════╗
  ║  JAZIB WAQAR RAZA — Full-Stack Developer & Builder       ║
  ║  Vibe coding the future, one project at a time            ║
