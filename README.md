@@ -1,6 +1,8 @@
-# Jazib Waqar Raza
+<div style="background: linear-gradient(135deg, #2d1b4e 0%, #0f3460 100%); padding: 40px 20px; border-radius: 10px; text-align: center;">
 
-Figuring out the ways to express my ideas of creating through tech.
+# <span style="color: #d4af85;">Jazib Waqar Raza</span>
+
+<p style="color: #d4af85; font-size: 16px; margin: 10px 0;">Figuring out the ways to express my ideas of creating through tech.</p>
 
 <!--
 **jrza/jrza** is a ✨ special ✨ repository because its `README.md` file appears on your GitHub profile.
@@ -11,11 +13,13 @@ Figuring out the ways to express my ideas of creating through tech.
  ╚═══════════════════════════════════════════════════════════╝
 -->
 
-<div align="center">
+<div style="margin-top: 20px;">
 
-**[Portfolio](https://www.jazibwaqarr.lol)** • **[GitHub](https://github.com/jrza)** • **[Email](mailto:jazibwaqarr@gmail.com)** • **[MLH](https://my.mlh.io)**
+**<span style="color: #d4af85;">[Portfolio](https://www.jazibwaqarr.lol) • [GitHub](https://github.com/jrza) • [Email](mailto:jazibwaqarr@gmail.com) • [MLH](https://my.mlh.io)</span>**
 
-> *Identifying my destiny through the technical bridges of all my random interests*
+> <span style="color: #d4af85;">*Identifying my destiny through the technical bridges of all my random interests*</span>
+
+</div>
 
 </div>
 
@@ -176,14 +180,15 @@ Think of me as someone who:
 
 ---
 
-<div align="center">
+<div align="center" style="background: linear-gradient(135deg, #2d1b4e 0%, #0f3460 100%); padding: 30px 20px; border-radius: 10px; margin-top: 20px;">
 
-### *"Code is poetry written for machines, but it should be read by humans."*
+### <span style="color: #d4af85;">*"Code is poetry written for machines, but it should be read by humans."*</span>
 
 <br>
 
-**Made with curiosity & lots of coffee ☕**\
-*Last updated: February 28, 2026*
+**<span style="color: #d4af85;">Made with curiosity & lots of coffee ☕</span>**
+
+<span style="color: #d4af85;">*Last updated: February 28, 2026*</span>
 
 </div>
 
