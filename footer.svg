@@ -1,0 +1,22 @@
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="purpleTealFooter" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2d1b4e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0f3460;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="800" height="200" fill="url(#purpleTealFooter)"/>
+  
+  <text x="400" y="70" font-size="24" text-anchor="middle" fill="#d4af85" font-family="Arial, sans-serif" font-style="italic">
+    "Code is poetry written for machines,
+  </text>
+  
+  <text x="400" y="100" font-size="24" text-anchor="middle" fill="#d4af85" font-family="Arial, sans-serif" font-style="italic">
+    but it should be read by humans."
+  </text>
+  
+  <text x="400" y="150" font-size="16" text-anchor="middle" fill="#d4af85" font-family="Arial, sans-serif">
+    Made with curiosity & lots of coffee ☕
+  </text>
+</svg>
